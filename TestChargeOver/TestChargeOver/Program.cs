@@ -19,7 +19,7 @@ namespace TestChargeOver
             //ChargeOverConnection.StoreCustomerACHeCheckAPI(3, "chec", "45678123789", "062346234");
    
             var subs = ChargeOverConnection.GetsubscriptionAPI(1600);
-            ChargeOverConnection.submitUsageByLineItemAPI("3821", "10", DateTime.Today.AddDays(-2), DateTime.Today.AddDays(-1));
+            ChargeOverConnection.submitUsageByLineItemAPI("3821", "12", DateTime.Today.AddDays(-2), DateTime.Today.AddDays(-1));
 
             Console.ReadKey();
         }
