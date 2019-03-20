@@ -1,0 +1,16 @@
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\bin\Debug\ChargeOverAPI.dll
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\bin\Debug\ChargeOverAPI.pdb
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.csprojResolveAssemblyReference.cache
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.dll
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.pdb
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\bin\Debug\ChargeOverAPI.dll
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\bin\Debug\ChargeOverAPI.pdb
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.csprojResolveAssemblyReference.cache
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.csproj.CoreCompileInputs.cache
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.csproj.CopyComplete
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.dll
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\ChargeOverAPI\obj\Debug\ChargeOverAPI.pdb

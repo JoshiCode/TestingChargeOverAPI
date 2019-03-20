@@ -1,0 +1,22 @@
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\TestChargeOver.exe.config
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\TestChargeOver.exe
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\TestChargeOver.pdb
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\ChargeOverAPI.dll
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\ChargeOverAPI.pdb
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.csprojResolveAssemblyReference.cache
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.exe
+C:\Users\Jvasquez\Documents\PRUEBAS\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.pdb
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\TestChargeOver.exe.config
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\TestChargeOver.exe
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\TestChargeOver.pdb
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\ChargeOverAPI.dll
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\ChargeOverAPI.pdb
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.csprojResolveAssemblyReference.cache
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.csproj.CoreCompileInputs.cache
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.csproj.CopyComplete
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.exe
+C:\Users\JVasquez\Documents\CODE TESTING\TestChargeOver\TestChargeOver\obj\Debug\TestChargeOver.pdb
